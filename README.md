@@ -4,4 +4,4 @@ Using deep machine learning - neural networks to assist a large charitable organ
 
 ## Resources
 * Data Source: charity_data.csv
-* Software: Python 3.7.11, Anaconda Navigator 1.9.12, Conda 4.8.4, Google Colab Notebook 
+* Software: Python 3.7.11, Google Colab Notebook 
