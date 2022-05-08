@@ -8,10 +8,10 @@ Using deep machine learning - neural networks to assist a large charitable organ
 
 ## Results
 *Data Preprocessing
-* The columns `EIN` and `NAME` were removed from the input data because they were not beneficial to making the model's prediction accruacy more robust.
-* The `IS_SUCCESSFUL` served as the feature variable of the deep learning neural network model becuase it provided binary data on whether the donation was used effectively.
-* 
-What variable(s) are neither targets nor features, and should be removed from the input data?
+* The `IS_SUCCESSFUL` served as the target variable of the deep learning neural network model because it provided binary data on whether the donation was used effectively.
+* `APPLICATION_TYPE`, `AFFILIATION`, `CLASSIFICATION`, `USE_CASE`, `ORGANIZATION`, `STATUS`, `INCOME_AMT`, `SPECIAL_CONSIDERATIONS`, and `ASK_AMT` served as the features for the model.
+* The columns `EIN` and `NAME` were removed from the input data because they were neither target or features and did not contribute to the model's prediction accuracy to being more robust.
+
 
 
 Compiling, Training, and Evaluating the Model
