@@ -14,8 +14,8 @@ Using deep machine learning - neural networks to assist a large charitable organ
 
 
 
-Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+*Compiling, Training, and Evaluating the Model
+* The number of neurons were increased (optimization #1) and the number of hidden layers were increased (optimization #2) as a means to make the prediction model more robust with the dataset. The number of epochs were increased (optimziation #3) to increase the iteration of the data. All 3 adjustments did not increase the prediction accuracy of the model to go above 75%.
+
+
+*Summary
