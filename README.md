@@ -15,7 +15,7 @@ Data Preprocessing
 
 
 Compiling, Training, and Evaluating the Model
-* The number of neurons were increased (optimization #1) and the number of hidden layers were increased (optimization #2) as a means to make the prediction model more robust with the dataset. The number of epochs were increased (optimziation #3) to elevate the number of iterations through the dataset. All 3 adjustments did not increase the prediction accuracy of the model to go above 75%.
+* The number of neurons were increased (optimization #1) and the number of hidden layers were increased (optimization #2) as a means to make the prediction model more robust with the dataset. The number of epochs were increased (optimziation #3) to elevate the number of iterations through the dataset. All 3 adjustments did not increase the prediction accuracy of the model to reach or exceed 75%.
 
 
 ## Summary
